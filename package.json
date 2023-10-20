@@ -3,7 +3,7 @@
   "license": "MIT",
   "name": "@welm/icons",
   "version": "1.0.0",
-  "description": "Outline svg Icons library",
+  "description": "Outline svg Icons pack",
   "main": "src/index.js",
   "scripts": {
     "deploy": "npm version patch && npm publish"
