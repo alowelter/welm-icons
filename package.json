@@ -2,7 +2,7 @@
   "author": "Marcelo Welter",
   "license": "MIT",
   "name": "@welm/icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Outline svg Icons pack",
   "main": "src/index.js",
   "scripts": {
