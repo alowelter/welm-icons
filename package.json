@@ -1,0 +1,15 @@
+{
+  "name": "@welm/icons",
+  "version": "1.0.0",
+  "description": "Outline svg Icons library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icons",
+    "welm"
+  ],
+  "author": "Marcelo Welter",
+  "license": "MIT"
+}
