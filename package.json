@@ -1,15 +1,23 @@
 {
+  "author": "Marcelo Welter",
+  "license": "MIT",
   "name": "@welm/icons",
   "version": "1.0.0",
   "description": "Outline svg Icons library",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "npm version patch && npm publish"
   },
   "keywords": [
     "icons",
     "welm"
   ],
-  "author": "Marcelo Welter",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alowelter/welm-icons.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alowelter/welm-icons/issues"
+  },
+  "homepage": "https://github.com/alowelter/welm-icons#readme"
 }
