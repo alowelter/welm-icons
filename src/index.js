@@ -1,3 +1,4 @@
+import React from 'react';
 export const WiBell = () => {
     return (
         <svg fill="#6B7280" width="24px" height="24px" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg">
